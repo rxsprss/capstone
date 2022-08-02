@@ -1,0 +1,65 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #b81a1a, #c91616, #1882c1, #0a73aa, #006494);
+}
+
+.header
+{
+	color: white;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+
+#title
+{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: beige;
+}
+
+#ds
+{
+    font-family: monospace;
+    color: rgb(148, 225, 237);
+}
+
+h5
+{
+    color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#sf {
+    font-size: 65px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: beige;
+}
+
+#large
+{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(182, 240, 111);
+}
+
+#hp
+{
+    color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#Link
+{
+    font-size: 30px;
+    color: beige;
+}
+
+#YT
+{
+    font-size: 65px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: beige; 
+}
